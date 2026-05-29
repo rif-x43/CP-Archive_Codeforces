@@ -8,8 +8,8 @@
 | **Tags** | constructive algorithms |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 (GCC 14-64, msys2) |
-| **Runtime** | 78 ms |
-| **Memory** | 100 KB |
+| **Runtime** | 62 ms |
+| **Memory** | 0 KB |
 
 ---
 
