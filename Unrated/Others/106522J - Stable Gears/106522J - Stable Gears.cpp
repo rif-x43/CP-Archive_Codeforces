@@ -26,8 +26,8 @@ void solve() {
     cin >> input;
     
     k = input;
- 
-    unsigned __int128 stable_gear_count = ((k * k) + 1) / (unsigned __int128) 4;
+    
+    unsigned __int128 stable_gear_count = (k * k) / (unsigned __int128) 4;
     cout << (int) stable_gear_count << endl;
 }
  
