@@ -8,8 +8,8 @@
 | **Tags** | brute force, greedy |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 (GCC 14-64, msys2) |
-| **Runtime** | 92 ms |
-| **Memory** | 100 KB |
+| **Runtime** | 62 ms |
+| **Memory** | 0 KB |
 
 ---
 
